@@ -101,8 +101,8 @@ declare CHART
 # Add repos 
 declare REPO_NAME_RELEASE="cf-helm-releases"
 declare REPO_NAME_SNAPSHOT="cf-helm-snapshots"
-declare REPO_URL_RELEASE="https://cf1hlmnxs.cfavorita.net/repository/helm-releases/"
-declare REPO_URL_SNAPSHOT="https://cf1hlmnxs.cfavorita.net/repository/helm-snapshots/"
+declare REPO_URL_RELEASE="https://cf1hlmnxs.servimaxec.com/repository/helm-releases/"
+declare REPO_URL_SNAPSHOT="https://cf1hlmnxs.servimaxec.com/repository/helm-snapshots/"
 
 case "$2" in
     login)
